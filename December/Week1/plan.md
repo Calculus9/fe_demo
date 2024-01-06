@@ -1,5 +1,5 @@
 ## 1
-- 学习es6 看了2h https://uestc.feishu.cn/docx/KZnddkQyOoJiM9xdWODcSY2Fnre
+- 学习es6 
 - 综合案例1-2 https://www.bilibili.com/video/BV1kM4y127Li?p=15&vd_source=7aac79f97170ba4d587e8da4ec9bf609
 - 表单学习 https://www.bilibili.com/video/BV1kM4y127Li?p=15&vd_source=7aac79f97170ba4d587e8da4ec9bf609
 
